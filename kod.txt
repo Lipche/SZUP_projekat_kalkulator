@@ -1,1 +1,4 @@
-printf("Test");
+int main() {
+    double a, b;
+    char op;
+}
