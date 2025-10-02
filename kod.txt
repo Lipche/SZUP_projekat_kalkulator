@@ -1,4 +1,6 @@
 int main() {
     double a, b;
     char op;
+
+printf("Unesite izraz (primer: 5 + 3): ");
 }
