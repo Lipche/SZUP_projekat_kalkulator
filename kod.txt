@@ -26,7 +26,6 @@ int main() {
         default:
             printf("Nepoznata operacija!\n");
 
-printf("Zavrseno!");
     }
 
     return 0;
